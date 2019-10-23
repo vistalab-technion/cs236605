@@ -79,10 +79,10 @@ social:
   links: # An array of links to social media profiles
 
 # Analytics
-analytics:
-  provider               : "google-universal"
-  google:
-    tracking_id          : UA-127457203-1
+# analytics:
+#   provider               : "google-universal"
+#   google:
+#     tracking_id          : UA-127457203-1
 
 
 # Site Author
